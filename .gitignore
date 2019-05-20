@@ -1,0 +1,4 @@
+/.vscode/
+/CSLib/*.o
+/CSLib/*.out
+/CSLib/*.a
