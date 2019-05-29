@@ -2,3 +2,5 @@
 /CSLib/*.o
 /CSLib/*.out
 /CSLib/*.a
+/sqlite-autoconf-3280000/
+/sqlite-autoconf-3280000.tar.gz
